@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-- 🔭 I’m currently working on [Image captioning using Transformers](https://github.com/ayazkhan1070/Vision_voice)
+- 🔭 I’m currently working on [Building AI Chatbot with Langgraph](https://github.com/ayazkhan1070/LanggraphAI-Chatbot-)
 
 - 👨‍💻 All of my projects are available at [https://ayazkhan1070.github.io/portfolio/](https://ayazkhan1070.github.io/portfolio/)
 
